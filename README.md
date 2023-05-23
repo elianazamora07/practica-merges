@@ -10,3 +10,6 @@ Y todos pagaron las cervezas que debiamos
 diseñaron un plan para reunirse periodicamente durante los 2 meses, la idea era compartir más
 La unión del equipo permitió un muy buen semillero
 todos aprendieron mucho y consiguieron nuevos trabajos
+
+
+Por otro lado, no todas las formas textuales tienen como soporte el lenguaje verbal. Algunas disciplinas consideran texto
