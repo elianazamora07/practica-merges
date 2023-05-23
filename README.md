@@ -10,3 +10,5 @@ Y todos pagaron las cervezas que debiamos
 diseñaron un plan para reunirse periodicamente durante los 2 meses, la idea era compartir más
 La unión del equipo permitió un muy buen semillero
 todos aprendieron mucho y consiguieron nuevos trabajos
+
+Los textos forman parte de nuestra experiencia cotidiana, los oímos, los leemos, los decimos, 
