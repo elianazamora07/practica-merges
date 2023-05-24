@@ -15,3 +15,5 @@ Los textos forman parte de nuestra experiencia cotidiana, los oímos, los leemos
 
 
 Por otro lado, no todas las formas textuales tienen como soporte el lenguaje verbal. Algunas disciplinas consideran texto
+
+Lo que hay que tomar de aquí es tener en cuenta que generalmente hay al menos tres copias de un proyecto en tu estación de trabajo.
