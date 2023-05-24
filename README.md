@@ -13,3 +13,4 @@ todos aprendieron mucho y consiguieron nuevos trabajos
 Los textos forman parte de nuestra experiencia cotidiana, los oímos, los leemos, los decimos, 
 Por otro lado, no todas las formas textuales tienen como soporte el lenguaje verbal. Algunas disciplinas consideran texto
 Puedes usar git fetch para saber los cambios hechos en el repo/rama remoto desde tu último pull. Esto es útil para permitir la comprobación antes de hacer un pull real, 
+lo que podría cambiar los archivos en tu rama actual y en la copia de trabajo (y potencialmente perder tus cambios, etc.).
